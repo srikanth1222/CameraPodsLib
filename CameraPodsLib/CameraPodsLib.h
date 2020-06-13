@@ -1,11 +1,3 @@
-//
-//  CameraPodsLib.h
-//  CameraPodsLib
-//
-//  Created by Veedepu Srikanth on 13/06/20.
-//  Copyright © 2020 Piing. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 
 //! Project version number for CameraPodsLib.
